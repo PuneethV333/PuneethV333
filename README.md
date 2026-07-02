@@ -81,6 +81,15 @@ Worked on the Co-Living platform above, focused on the MERN stack: building out 
 
 ---
 
+## 📊 GitHub Analytics
+
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PuneethV333&theme=tokyonight&hide_border=true_centre=true)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=PuneethV333&theme=tokyo-night&hide_border=true)
+
+---
+
 ## 🎓 Education
 **B.Tech in Computer Science Engineering** — PES University, Bengaluru
 
