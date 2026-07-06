@@ -28,8 +28,6 @@ I like building systems that actually run end-to-end — from database schema to
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PuneethV333&theme=tokyo-night&hide_border=true" />
 </p>
 
-> **Note:** enable "Include private contributions" in GitHub profile settings so internship/coursework commits show up here too.
-
 ---
 
 ## 🚀 Projects
