@@ -32,24 +32,6 @@ I like building systems that actually run end-to-end — from database schema to
 
 ## 🚀 Projects
 
-### 🎙️ VIMA — Voice Intelligent Machine Assistant
-A local-first, voice-controlled AI assistant built as a capstone/research project. VIMA listens, thinks, and talks back — with tool-calling for real tasks like contacts, email, and messaging.
-
-- **Architecture:** Electron desktop app with a Node.js/Express orchestrator, a Python FastAPI microservice for Whisper (speech-to-text) and edge-tts (text-to-speech), and a React/TypeScript frontend
-- **Real-time:** WebSocket-first communication — binary audio streaming in, generated audio streaming back out
-- **LLM routing:** Hybrid local/cloud model routing (Ollama for local inference, Gemini as a cloud fallback) with automatic online/offline detection
-- **Agent design:** ReAct-style orchestration, fuzzy contact resolution (Google People API + LLM disambiguation), and confirmation-gating before any destructive tool call runs
-- **Data:** SQLite + Prisma for conversations, messages, and per-user settings
-
-**GitHub:** [github.com/PuneethV333/vima-bot](https://github.com/PuneethV333/vima-bot)
-**Release:** [v1.0.0](https://github.com/PuneethV333/vima-bot/releases/tag/v1.0.0)
-
-<p>
-  <img src="https://img.shields.io/github/last-commit/PuneethV333/vima-bot?style=flat-square&color=7aa2f7" />
-  <img src="https://img.shields.io/github/commit-activity/m/PuneethV333/vima-bot?style=flat-square&color=bb9af7" />
-  <img src="https://img.shields.io/github/languages/top/PuneethV333/vima-bot?style=flat-square&color=9ece6a" />
-</p>
-
 ### ⚡ VIMA CLI
 A Node.js-based scaffolding tool that creates scalable frontend and backend projects with multiple variants — supporting React + Vite, Express APIs, MongoDB, Prisma, Firebase, and SQL setups.
 
